@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "藍空、ミラー",
+  "base_artist": "Guiano",
+  "createdAt": "2026-02-08T23:56:19.490133Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "藍空、ミラー",
+      "artist": "Guiano",
+      "has_synced": false,
+      "path": "select/pl_01_藍空、ミラー_Guiano.txt"
+    }
+  ]
+}
